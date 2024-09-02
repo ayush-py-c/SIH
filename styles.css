@@ -88,3 +88,221 @@ body {
         padding: 20px;
     }
 }
+.photos_sih {
+    height: 300px;
+    width: 100%;
+}
+
+.photo {
+    background-image: url(https://www.practicematch.com/sharedfiles/PracticeTrack/documents/3_276/20190118_DSC00111_Edits_LightVersion__20240117_153324860_.jpg);
+    background-color: rgba(0, 0, 0, .3);
+    transition-duration: 0.3s;
+    height: 300px;
+    width: 100%;
+    background-size: cover;
+    position: absolute;
+    background-repeat: no-repeat;
+    font-weight: 900;
+}
+
+.photo_note1 {
+    align-items: center;
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-left: 50px;
+    font-size: 40px;
+}
+
+.photo_note2 {
+   font-size: 25px;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.photo_note2 i {
+    font-size: 25px;
+}
+
+.community_spotlight {
+    height: 300px;
+    width: 100%;
+    /* align-items: center;
+    justify-content: center; */
+    /* display: flex; */
+}
+
+.community_spotlight1 {
+    color: #34657f;
+    padding-left: 340px;
+    padding-top: 50px;
+    font-weight: 500;
+    font-size: 50px;
+}
+
+.community_spotlight2 {
+    padding-left: 250px;
+    font-size: 30px;
+    padding-top: 25px;
+    color: #7a99ac;
+}
+
+.community_spotlight3 {
+    padding-left: 400px;
+    font-size: 30px;
+    padding-top: 4px;
+    color: #7a99ac;
+}
+
+.boxes1 {
+    height: 360px;
+    width: 100%;
+    padding-left: 40px;
+    display: flex;
+}
+
+.box1 {
+    height: 333.96px;
+    width: 340px;
+    background-color: #34657f;
+}
+
+.box1_1 {
+    padding-top: 20px;
+    padding-left: 40px;
+    font-size: 30px;
+    color: whitesmoke;
+}
+
+.box1_2 {
+    padding-top: 10px;
+    padding-left: 40px;
+    font-size: 35px;
+    color: whitesmoke;
+}
+
+.box1_3 {
+    padding-top: 30px;
+    padding-left: 40px;
+    font-size: 25px;
+    color: whitesmoke;
+}
+
+.box2 {
+    height: 333.96px;
+    width: 698px;
+    background-color: #34657f;
+    margin-left: 40px;
+    background-image: url(Blackout\ Grid\ Space.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.box2_1 {
+    padding-left: 30px;
+    padding-top: 30px;
+    font-size: 30px;
+    font-weight: 550;
+    color: whitesmoke;
+}
+
+button {
+    background-color: #e0c44f;
+    color: #34657f;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 50px;
+    font-size: 30px;
+    border: 2px solid transparent;
+}
+
+.boxes2 {
+    height: 380px;
+    width: 100%;
+    display: flex;
+}
+
+.box3 {
+    height: 333.96px;
+    width: 340px;
+    background-color: #7a99ac;
+    margin-left: 40px;
+}
+
+.box3 button {
+    margin-top: 90px;
+}
+
+.box4 {
+     height: 333.96px;
+    width: 340px;
+    background-color: #ea6953;
+    margin-left: 40px;
+}
+
+.box4 button {
+    margin-top: 90px;
+}
+
+.box5 {
+    height: 333.96px;
+    width: 330px;
+    background-color: #31badd;
+    margin-left: 30px;
+}
+
+.box5 button {
+    margin-top: 120px;
+}
+
+.boxes3 {
+    height: 600px;
+    width: 100%;
+    display: flex;
+}
+
+.box6 {
+    height: 333.96px;
+    width: 720px;
+    background-color: #31badd;
+    margin-left: 40px;
+    background-image: url(Barbershop\ Grid.jpg);
+}
+
+.box6 button {
+    margin-top: 120px;
+}
+
+.box7 {
+    height: 333.96px;
+    width: 330px;
+    background-color: #0077c8;
+    margin-left: 30px;
+}
+
+.box7_1 {
+    padding-left: 30px;
+    padding-top: 30px;
+    font-size: 30px;
+    font-weight: 550;
+    color: whitesmoke;
+}
+
+.box7_2 {
+    padding-left: 30px;
+    padding-top: 20px;
+    font-size: 30px;
+    font-weight: 500;
+    color: whitesmoke;
+}
+
+.box7_3 {
+    padding-left: 30px;
+    padding-top: 35px;
+    font-size: 30px;
+    font-weight: 550;
+    color: whitesmoke;
+}
+
+.box7_3 i {
+    color: yellow;
+}
